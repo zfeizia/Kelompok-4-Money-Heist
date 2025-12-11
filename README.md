@@ -47,33 +47,6 @@ Ikuti instruksi ini dengan hati-hati. Jangan sampai tertangkap basah.
 
 ## 📂 The Blueprints (Struktur File)
 
-```text
-money_heist/
-│
-├── assets/             # Menyimpan file statis (CSS, Gambar, Font)
-│   ├── css/            # Stylesheet tema Money Heist
-│   └── img/            # Aset gambar karakter & background
-│
-├── config/             # Konfigurasi Backend Utama
-│   ├── koneksi.php     # Koneksi ke database MySQL
-│   └── functions.php   # Kumpulan function (CRUD & Helper)
-│
-├── professor/          # Halaman khusus Admin (The Professor)
-│   ├── dashboard.php   # Landing page & list misi aktif
-│   ├── create.php      # Form pembuatan misi baru
-│   └── monitor.php     # Live monitoring & control panel
-│
-├── crew/               # Halaman khusus User (Crew)
-│   ├── briefing.php    # Halaman detail misi & strategi
-│   ├── action.php      # Halaman eksekusi pilihan aksi
-│   └── summary.php     # Laporan hasil aksi crew
-│
-├── index.php           # Halaman awal / Redirect
-├── login.php           # Halaman autentikasi pengguna
-├── register.php        # Halaman pendaftaran crew baru
-└── logout.php          # Script terminasi sesi
-
-```
 
 ## Kontributor 👷‍♂️
 1. Putri Isnaini Laksita Utami (H1D024078 / email)
