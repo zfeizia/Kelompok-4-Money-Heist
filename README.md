@@ -73,6 +73,8 @@ money_heist/
 ├── register.php        # Halaman pendaftaran crew baru
 └── logout.php          # Script terminasi sesi
 
+```
+
 ## Kontributor 👷‍♂️
 1. Putri Isnaini Laksita Utami (H1D024078 / email)
 2. Zainab Feizia (H1D024097 / zainab.feizia@mhs.unsoed.ac.id)
