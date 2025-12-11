@@ -3,25 +3,19 @@
 > *"Listen to me. In this world, everything is governed by balance. There's what you stand to gain and what you stand to lose. Today, we are not just coding... we are making history."* — **The Professor**
 
 ## 🎭 About The Website
-Selamat datang di **Resistance**. Sistem ini adalah "Otak" dari operasi kita. Dibangun untuk memastikan komunikasi antara **The Professor** (Admin) dan para **Crew** (User) di lapangan.
-
-Tidak ada ruang untuk kesalahan. Aplikasi ini mengatur segalanya: dari merancang skenario perampokan, memantau situasi, hingga eksekusi rencana pelarian.
+Selamat datang di **Resistance**. Sistem ini adalah "Otak" dari operasi kita. Dibangun untuk memastikan komunikasi antara **The Professor** (Admin) dan para **Crew** (User) di lapangan. Tidak ada ruang untuk kesalahan. Aplikasi ini mengatur segalanya: dari merancang skenario perampokan, memantau situasi, hingga eksekusi rencana pelarian.
 
 **Target Operasi:** Menyelesaikan tugas Praktikum Pemrograman Web dengan nilai sempurna.
 
 ## 🗺️ The Master Plan (Fitur)
 Sistem ini dibekali fitur-fitur untuk kelancaran misi:
 
-* **🕵️‍♂️ The Professor's Access (Admin Role):**
-    Akses khusus sang Mastermind. Membuat misi, mengubah strategi, dan menghapus jejak (CRUD Misi).
-* **👺 The Crew's Terminal (User Role):**
-    Akses khusus untuk Tokyo, Rio, Denver. Menerima briefing rahasia dan menjalankan misi.
-* **📡 Live Monitor (Real-time Command):**
-    Professor bisa mengubah fase misi (Planning ➔ Escape), dan Crew akan menerima perintahnya.
-* **📝The Mission Log (History):**
-    Setiap keputusan yang diambil Crew terekam abadi di database. Runtut, detail, dan tidak bisa disangkal.
+* 🕵️‍♂️ Akses khusus sang Mastermind. Membuat misi, mengubah strategi, dan menghapus jejak (CRUD Misi).
+* 👺 Akses khusus untuk Tokyo, Rio, Denver. Menerima briefing rahasia dan menjalankan misi.
+* 📡 Professor bisa mengubah fase misi dan Crew akan menerima perintahnya.
+* 📝Setiap keputusan yang diambil Crew terekam abadi di database. 
 
-## 🔫 The Arsenal (Teknologi)
+## The Arsenal (Teknologi)
 Senjata yang kita gunakan untuk membangun sistem ini:
 
 * HTML & CSS 
@@ -48,7 +42,7 @@ Ikuti instruksi ini dengan hati-hati. Jangan sampai tertangkap basah.
 5.  **Connect:**
     Buka browser dan akses jalur aman: `localhost/money_heist`.
 
-## 🆔 Operative (Demo Website)
+## Operative (Demo Website)
 
 
 ## 📂 The Blueprints (Struktur File)
