@@ -3,7 +3,7 @@
 > *"Listen to me. In this world, everything is governed by balance. There's what you stand to gain and what you stand to lose. Today, we are not just coding... we are making history."* — **The Professor**
 
 ## 🎭 About The Website
-Selamat datang di **Resistance**. Sistem ini adalah "Otak" dari operasi kita. Dibangun untuk memastikan komunikasi antara **The Professor** (Admin) dan para **Crew** (User) di lapangan. Tidak ada ruang untuk kesalahan. Aplikasi ini mengatur segalanya: dari merancang skenario perampokan, memantau situasi, hingga eksekusi rencana pelarian.
+Selamat datang di Resistance. Sistem ini adalah "Otak" dari operasi kita. Dibangun untuk memastikan komunikasi antara The Professor (Admin) dan para Crew (User) di lapangan. Tidak ada ruang untuk kesalahan. Aplikasi ini mengatur segalanya: dari merancang skenario perampokan, memantau situasi, hingga eksekusi rencana pelarian.
 
 **Target Operasi:** Menyelesaikan tugas Praktikum Pemrograman Web dengan nilai sempurna.
 
@@ -72,3 +72,8 @@ money_heist/
 ├── login.php           # Halaman autentikasi pengguna
 ├── register.php        # Halaman pendaftaran crew baru
 └── logout.php          # Script terminasi sesi
+
+## Kontributor 👷‍♂️
+1. Putri Isnaini Laksita Utami (H1D024078 / email)
+2. Zainab Feizia (H1D024097 / zainab.feizia@mhs.unsoed.ac.id)
+3. AGASTYA ITSAR MAULANA (H1D024113 / Email)
