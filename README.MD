@@ -67,6 +67,7 @@ MONEY_HEIST
 
 ## Demo Aplikasi 🎥
 Berikut adalah simulasi penggunaan aplikasi Money Heist: Mission Control.
+
 [![Demo Web](https://img.youtube.com/vi/F0Yo_Om1qZU/0.jpg)](https://www.youtube.com/watch?v=F0Yo_Om1qZU)
 
 *Klik gambar di atas untuk melihat video demonstrasi.*
