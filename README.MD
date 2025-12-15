@@ -8,17 +8,17 @@ Sistem ini bertindak sebagai "Otak" operasi yang memusatkan seluruh alur informa
 
 Proyek ini disusun untuk memenuhi tugas responsi **Praktikum Pemrograman Web**.
 
-## Fitur Utama 🚀
+## Fitur Utama 🤖
 
 Sistem ini membagi hak akses menjadi dua peran utama dengan fungsionalitas yang berbeda:
 
-### 1. The Professor (Administrator)
+### 1. 👨‍🏫 The Professor (Administrator)
 Bertanggung jawab atas manajemen strategi dan pengawasan operasi.
 * Fitur untuk membuat dan menyusun detail rencana operasi (Target, Lokasi, Strategi Utama).
 * Dashboard pemantauan fase operasi secara berurutan (*Planning, Execution, Negotiation, Escape*).
 * Mengirimkan instruksi taktis (Opsi A / Opsi B) yang akan disinkronkan secara langsung ke perangkat Crew.
 
-### 2. The Crew (User)
+### 2. 👺 The Crew (User)
 Bertanggung jawab sebagai penerima perintah dan eksekutor lapangan.
 * Akses masuk menggunakan identitas karakter (Codename: Tokyo, Rio, Denver, dll).
 * Antarmuka pengguna yang otomatis memperbarui tampilan berdasarkan fase dan instruksi yang dikirim oleh Professor.
@@ -68,6 +68,7 @@ MONEY_HEIST
 ## Demo Aplikasi 🎥
 Berikut adalah simulasi penggunaan aplikasi Money Heist: Mission Control.
 [![Demo Web](https://img.youtube.com/vi/F0Yo_Om1qZU/0.jpg)](https://www.youtube.com/watch?v=F0Yo_Om1qZU)
+
 *Klik gambar di atas untuk melihat video demonstrasi.*
 
 ## Cara Instalasi 💻
@@ -79,8 +80,8 @@ Berikut adalah simulasi penggunaan aplikasi Money Heist: Mission Control.
 
 ## Kontributor 👷‍♂️
 Kelompok 4 - Praktikum Pemrograman Web
-Putri Isnaini Laksita Utami - (H1D024078) - putri.isnaini.l@mhs.unsoed.ac.id
-Zainab Feizia - (H1D024097) - zainab.feizia@mhs.unsoed.ac.id
-Agastya Itsar Maulana - (H1D024113) - agastya.maulana@mhs.unsoed.ac.id 
+* Putri Isnaini Laksita Utami - (H1D024078) - putri.isnaini.l@mhs.unsoed.ac.id
+* Zainab Feizia - (H1D024097) - zainab.feizia@mhs.unsoed.ac.id
+* Agastya Itsar Maulana - (H1D024113) - agastya.maulana@mhs.unsoed.ac.id 
 
 > *"Listen to me. In this world, everything is governed by balance. There's what you stand to gain and what you stand to lose. Today, we are not just coding... we are making history."* — The Professor
